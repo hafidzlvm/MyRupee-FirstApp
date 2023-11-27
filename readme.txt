@@ -1,1 +1,1 @@
-Hello Im Hafidzlvm, firstly u can git clone from this repository and go to read.php with your localhost server
+Hello Im Hafidzlvm, firstly u can git clone from this repository and go to read.php in view folder with your localhost server
